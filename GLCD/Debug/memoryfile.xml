@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="GLCD12864.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>262144</length>                 
+      <used>8702</used>                     
+      <free>253442</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>8192</length>                 
+      <used>2905</used>                     
+      <free>5287</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
